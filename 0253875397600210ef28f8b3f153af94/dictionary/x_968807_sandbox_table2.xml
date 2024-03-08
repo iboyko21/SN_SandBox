@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
     <element db_object_id="1f62e83597f40610ef28f8b3f153aff9" label="Table2" max_length="40" name="x_968807_sandbox_table2" type="collection">
+        <element choice="2" label="Color" max_length="40" name="color" type="color">
+            <choice/>
+        </element>
         <element label="Reference" max_length="32" name="reference" reference="x_968807_sandbox_table1" type="reference"/>
         <index name="index">
             <element name="reference"/>
