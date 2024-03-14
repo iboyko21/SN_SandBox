@@ -4,5 +4,6 @@
         <element label="Column2" max_length="40" name="column2" type="integer"/>
         <element label="Column3" max_length="40" name="column3" type="boolean"/>
         <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element label="Yo" max_length="40" name="yo" type="string"/>
     </element>
 </database>
