@@ -1,5 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
     <element db_object_id="1f62e83597f40610ef28f8b3f153aff9" label="Table2" max_length="40" name="x_968807_sandbox_table2" type="collection">
+        <element choice="1" label="Choice" max_length="40" name="choice" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="NaY" value="no"/>
+                <element inactive_on_update="false" label="Yay" value="yes"/>
+            </choice>
+        </element>
         <element choice="2" label="Color" max_length="40" name="color" type="color">
             <choice/>
         </element>
