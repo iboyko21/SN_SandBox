@@ -9,6 +9,7 @@
         <element choice="2" label="Color" max_length="40" name="color" type="color">
             <choice/>
         </element>
+        <element label="Column1" max_length="40" name="column1" type="integer"/>
         <element label="Reference" max_length="32" name="reference" reference="x_968807_sandbox_table1" type="reference"/>
         <index name="index">
             <element name="reference"/>
