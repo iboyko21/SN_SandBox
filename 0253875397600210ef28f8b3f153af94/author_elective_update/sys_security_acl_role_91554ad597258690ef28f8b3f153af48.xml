@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="DELETE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-04-13 00:56:48</sys_created_on>
+        <sys_id>91554ad597258690ef28f8b3f153af48</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_968807_sandbox_table3.x_968807_sandbox.table3_user</sys_name>
+        <sys_package display_value="SandBox" source="x_968807_sandbox">0253875397600210ef28f8b3f153af94</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="SandBox">0253875397600210ef28f8b3f153af94</sys_scope>
+        <sys_security_acl display_value="x_968807_sandbox_table3">d1554ad597258690ef28f8b3f153af45</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_91554ad597258690ef28f8b3f153af48</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-04-13 00:56:48</sys_updated_on>
+        <sys_user_role display_value="x_968807_sandbox.table3_user" name="x_968807_sandbox.table3_user">dd5506d597258690ef28f8b3f153af29</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="SandBox">0253875397600210ef28f8b3f153af94</application>
+        <file_path/>
+        <instance_id>a6f7bee9db050110e62f3feb6896199b</instance_id>
+        <instance_name>dev121462</instance_name>
+        <name>sys_security_acl_role_91554ad597258690ef28f8b3f153af48</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role"><sys_security_acl_role action="INSERT_OR_UPDATE"><sys_class_name>sys_security_acl_role</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-04-13 00:56:48</sys_created_on><sys_id>91554ad597258690ef28f8b3f153af48</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_968807_sandbox_table3.x_968807_sandbox.table3_user</sys_name><sys_package display_value="SandBox" source="x_968807_sandbox">0253875397600210ef28f8b3f153af94</sys_package><sys_policy/><sys_scope display_value="SandBox">0253875397600210ef28f8b3f153af94</sys_scope><sys_security_acl display_value="x_968807_sandbox_table3">d1554ad597258690ef28f8b3f153af45</sys_security_acl><sys_update_name>sys_security_acl_role_91554ad597258690ef28f8b3f153af48</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-04-13 00:56:48</sys_updated_on><sys_user_role display_value="x_968807_sandbox.table3_user" name="x_968807_sandbox.table3_user">dd5506d597258690ef28f8b3f153af29</sys_user_role><transaction_id/></sys_security_acl_role></record_update>]]></payload>
+        <payload_hash>-597187440</payload_hash>
+        <record_name>x_968807_sandbox_table3.x_968807_sandbox.table3_user</record_name>
+        <reverted_from/>
+        <source>b90e108a97744610ef28f8b3f153afab</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-04-13 00:56:48</sys_created_on>
+        <sys_id>19554ad597258690ef28f8b3f153af4a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18ed4f4fb810000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-04-13 00:56:48</sys_updated_on>
+        <type>Access Roles</type>
+        <update_guid>5d554ad519258690c2b959a482005449</update_guid>
+        <update_guid_history>5d554ad519258690c2b959a482005449:-597187440</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="x_968807_sandbox_table3.x_968807_sandbox.table3_user">b41e3f62970a8290ef28f8b3f153af88</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-05-12 03:28:08</sys_created_on>
+        <sys_db_object display_value="" name="sys_security_acl_role">sys_security_acl_role</sys_db_object>
+        <sys_id>08b57b59ef0a484080a31a25ed2f1000</sys_id>
+        <sys_metadata>91554ad597258690ef28f8b3f153af48</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_968807_sandbox_table3.x_968807_sandbox.table3_user</sys_name>
+        <sys_package display_value="SandBox" source="x_968807_sandbox">0253875397600210ef28f8b3f153af94</sys_package>
+        <sys_parent display_value="x_968807_sandbox_table3">d1554ad597258690ef28f8b3f153af45</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="SandBox">0253875397600210ef28f8b3f153af94</sys_scope>
+        <sys_scope_delete display_value="">1c7b6aa57d024e2d88c694e97dff9a41</sys_scope_delete>
+        <sys_update_name>sys_security_acl_role_91554ad597258690ef28f8b3f153af48</sys_update_name>
+        <sys_update_version display_value="sys_security_acl_role_91554ad597258690ef28f8b3f153af48">19554ad597258690ef28f8b3f153af4a</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-05-12 03:28:08</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
